@@ -1,3 +1,4 @@
+# JSX: Why we need the JSX in React?
 ## 1 One Sentence Explanation
 JSX is a syntax sugar for Javascript, React doesn't force developer using JSX.<br>
 We could implement React like below:
