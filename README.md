@@ -1,5 +1,5 @@
 # React-for-SRE
-Here are some ideas I thought about during the React development journey. 
+Here are some ideas that come from the React development and interview journey. 
 
 ## Contents
 
