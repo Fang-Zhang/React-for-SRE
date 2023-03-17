@@ -1,1 +1,0 @@
-# Component Type
