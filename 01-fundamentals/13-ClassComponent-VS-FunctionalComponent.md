@@ -1,6 +1,7 @@
 # Class Component VS Functional Component
 ## Common Points
-- Final Usage: No matter [HOC(Higher-Order Component)](https://reactjs.org/docs/higher-order-components.html), or asynchronous invoke, both of them could be the basic component for UI rendering. Based on this, the invoke method and final display result is same for both of them. Customers could differentiate them just from daily using.
+- Final Usage: <br/>
+  No matter [HOC(Higher-Order Component)](https://reactjs.org/docs/higher-order-components.html), or asynchronous invoke, both of them could be the basic component for UI rendering. Based on this, the invoke method and final display result is same for both of them. Customers could differentiate them just from daily using.
 ## Different Points
 - Scenario
 - Special feature:<br>
