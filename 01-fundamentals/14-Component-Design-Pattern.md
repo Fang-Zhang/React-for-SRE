@@ -21,5 +21,8 @@ const ItemsList = (props) => {
 ```
 - Provider Pattern
 - Compound Components Pattern
-- The Higher-Order Components Pattern
+- The Higher-Order Components Pattern<br />
+  Examples of these features are authorization, logging, and data retrieval.
+- Render props pattern
+- State reducer pattern
 - 
